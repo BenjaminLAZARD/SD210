@@ -1,3 +1,4 @@
 # SD210
-Data Science challenge at Telecom Paristech.
-The purpose was to classify preprocessed medical imagery pictures to classify patients positive or negative to a disease. It is a task of supervised classification.
+Data Science challenge at Telecom Paristech (French n°1 IT Grande Ecole).
+I received the best grade for the 2017 session.
+The purpose was to classify preprocessed pictures of people as male or female. It is a task of supervised learning.
